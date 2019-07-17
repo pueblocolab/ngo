@@ -2,7 +2,7 @@ baseURL = "https://pueblocolab.github.io/sitio_ong"
 languageCode = "en-us"
 title = "Nuestro ONG"
 theme = "hugo-elate-theme"
-
+publishDir = "docs"
 
 [params]
   
